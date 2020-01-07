@@ -20,5 +20,6 @@ public abstract class AbUser {
 		public String hahahastar = "hahahastar";
 		public String hahahahahahaha = "star";
 		public String hahahahahahaha2 = "star2";
+		public String hahahahahahaha3 = "star3";
 	}
 }
