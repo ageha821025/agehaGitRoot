@@ -16,5 +16,6 @@ public abstract class AbUser {
 
 	public static void main(String[] args) {
 		public String harin = "harin";
+		public String subin = "subin";
 	}
 }
