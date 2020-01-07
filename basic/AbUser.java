@@ -18,5 +18,6 @@ public abstract class AbUser {
 		public String harin = "harin";
 		public String subin = "subin";
 		public String hahahastar = "hahahastar";
+		public String hahahahahahaha = "star";
 	}
 }
